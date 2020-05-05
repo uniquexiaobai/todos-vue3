@@ -1,6 +1,6 @@
-# vue-next-webpack-preview
+# todos-vue3
 
-> Minimal webpack setup for Vue 3 (beta) 
+> Todos with Vue 3 (beta) 
 
 This is for preview purposes only. There might be bugs and undocumented behavior differences from v2, which are expected.
 
